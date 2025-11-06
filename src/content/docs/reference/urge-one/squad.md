@@ -1,6 +1,6 @@
 ---
-title: Squad
-description: handling user squad
+title: Cheer Squad
+description: User squad Implementation
 ---
 
 # Urge Cheer Squad Feature Documentation

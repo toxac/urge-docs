@@ -1,5 +1,5 @@
 ---
-title: progress tracking system
+title: Program Progress
 description: program content progress implementation details
 ---
 
