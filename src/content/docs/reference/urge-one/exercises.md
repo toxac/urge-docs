@@ -1,3 +1,7 @@
+---
+title: Concepts
+description: Details related to exercises related content
+---
 # Exercises — Authoring Guide
 
 Location

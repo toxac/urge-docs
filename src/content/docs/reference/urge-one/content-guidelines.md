@@ -1,3 +1,7 @@
+---
+title: Content
+description: Details content organization and schema
+---
 # Content Guidelines (Urge)
 
 This document describes how content is structured in this repository and how to author new content files. It is derived from the collection schemas in `src/content.config.ts` and the repository content folder layout.

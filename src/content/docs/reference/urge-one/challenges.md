@@ -1,3 +1,7 @@
+---
+title: Challenges
+description: Details related to challenges related content
+---
 # Challenges — Authoring Guide
 
 Location

@@ -1,7 +1,6 @@
 ---
 title: Concepts
 description: Details related to concepts related content
-
 ---
 
 # Concepts — Authoring Guide
